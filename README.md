@@ -1,4 +1,4 @@
-# cuopcake-shop.html
+# cupcake-shop.html
 
 #### By Emil Anton, April Milan, Bai Jaitrong
 
@@ -6,10 +6,11 @@
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* GitHub
+* GitBash
+* HTML
+* CSS
+* Visual Studio Code
 
 ## Description
 
